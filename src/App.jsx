@@ -75,7 +75,7 @@ function App() {
     <input type ="password" placeholder='password' value={password} onChange={onChangePassword}/>
 
     <button type='submit'>Enviar</button>
-</form>
+    </form>
     </div>
   )
 }

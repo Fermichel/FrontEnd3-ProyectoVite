@@ -42,3 +42,13 @@
   color: #888;
 }
 
+form{
+  background-color: black;
+  display: flex;
+  flex-direction: column;
+  padding: 5%;
+  border-radius: 5%;
+}
+input{
+  margin: 5%;
+}
