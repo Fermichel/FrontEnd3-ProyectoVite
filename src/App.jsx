@@ -1,14 +1,14 @@
 import './App.css'
-import ClassComponent from './components/ClassComponent'
-import FunComponent from './components/FunComponent'
-import PropC4 from './components/PropC4'
+import Card from './components/Card'
+import Home from './components/Home'
+
+
 
 function App() {
   
   return (
     <>
-      <PropC4 nombre = "Fernanda"/>
-      <PropC4 nombre = "Juan"/>
+      <Home/>
     </>
   )
 }
