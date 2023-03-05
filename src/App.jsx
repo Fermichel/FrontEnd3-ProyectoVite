@@ -1,6 +1,7 @@
 import './App.css'
-import Card from './components/Card'
-import Home from './components/Home'
+import C7Hook from './components/C7Hook'
+import C7Hook2 from './components/C7Hook2'
+
 
 
 
@@ -8,9 +9,8 @@ function App() {
   
   return (
     <>
-      <Home/>
+      <C7Hook2/>    
     </>
   )
 }
-
 export default App

@@ -1,0 +1,16 @@
+li {
+    list-style: none;
+}
+.contBtn{
+    padding: 10%;
+    width: 100%;
+    flex-direction: row;
+}
+button{
+    margin: 5px;
+}
+.list{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
